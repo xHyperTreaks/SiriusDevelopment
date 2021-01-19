@@ -1,0 +1,40 @@
+{
+    "//1": "WhYBoLu v12 boş altyapı",
+    "//2": "https://discord.gg/SarrpTh",
+    "name": "hello-express",
+    "version": "0.0.1",
+    "description": "Bu altyapı WhYBoLu Codeye aittir çalınması yasaktır!.",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.0",
+        "chalk": "^4.1.0",
+        "common-tags": "^1.8.0",
+        "discord-music-player": "^6.0.1",
+        "discord.js": "^12.5.1",
+        "express": "^4.17.1",
+        "fs": "0.0.1-security",
+        "jimp": "^0.16.1",
+        "moment": "^2.29.1",
+        "simple-youtube-api": "^5.2.1",
+        "snekfetch": "^4.0.4",
+        "soundcloud-downloader": "^0.2.1",
+        "wio.db": "^4.0.9"
+    },
+    "engines": {
+        "node": "12.x"
+    },
+    "repository": {
+        "url": "https://glitch.com/edit/#!/hello-express"
+    },
+    "license": "MIT",
+    "keywords": [
+        "node",
+        "glitch",
+        "express"
+    ],
+    "devDependencies": {},
+    "author": ""
+}
